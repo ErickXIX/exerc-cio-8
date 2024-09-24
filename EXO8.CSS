@@ -78,9 +78,18 @@ li {
 
 #passe-escolar {
     color: white;
-    background-color: darkgreen;
+    background-color: darkblue;
     display: flex;
     flex-direction: column;
-    justify-content: end;
+    justify-content: center;
+    padding: 10px;
+}
+
+#noticia {
+    color: white;
+    background-color: darkgoldenrod;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
     padding: 10px;
 }
